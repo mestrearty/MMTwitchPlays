@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: jaraco.stream
+Version: 2.0
+Summary: routines for dealing with data streams
+Home-page: https://github.com/jaraco/jaraco.stream
+Author: Jason R. Coombs
+Author-email: jaraco@jaraco.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=2.7
+Requires-Dist: six
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: jaraco.packaging (>=3.2) ; extra == 'docs'
+Requires-Dist: rst.linker (>=1.9) ; extra == 'docs'
+Provides-Extra: testing
+Requires-Dist: pytest (!=3.7.3,>=3.5) ; extra == 'testing'
+Requires-Dist: pytest-checkdocs ; extra == 'testing'
+Requires-Dist: pytest-flake8 ; extra == 'testing'
+Requires-Dist: more-itertools ; extra == 'testing'
+
+.. image:: https://img.shields.io/pypi/v/jaraco.stream.svg
+   :target: https://pypi.org/project/jaraco.stream
+
+.. image:: https://img.shields.io/pypi/pyversions/jaraco.stream.svg
+
+.. image:: https://img.shields.io/travis/jaraco/jaraco.stream/master.svg
+   :target: https://travis-ci.org/jaraco/jaraco.stream
+
+.. .. image:: https://img.shields.io/appveyor/ci/jaraco/jaraco.stream/master.svg
+..    :target: https://ci.appveyor.com/project/jaraco/jaraco.stream/branch/master
+
+.. .. image:: https://readthedocs.org/projects/jaracostream/badge/?version=latest
+..    :target: https://jaracostream.readthedocs.io/en/latest/?badge=latest
+
+Routines for handling streaming data, including a
+set of generators for loading gzip data on the fly.
+
+
