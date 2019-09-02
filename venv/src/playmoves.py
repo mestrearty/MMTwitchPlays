@@ -2,21 +2,23 @@ from bdb import Bdb
 from pynput.keyboard import Key, Controller
 import time
 
+global file
+file = 'button.txt'
 
 class Playmoves:
     keyboard = Controller()
 
     # controles
-    Bup = 'i'
-    Bdown = 'k'
-    Bleft = 'j'
-    Bright = 'l'
-    Ba = 'x'
-    Bb = 'z'
+    Bup = 'up'
+    Bdown = 'down'
+    Bleft = 'left'
+    Bright = 'right'
+    Ba = 'A'
+    Bb = 'B'
     Blt = 'a'
     Brt = 's'
-    Bselect = 'q'
-    Bstart = 'w'
+    Bselect = 'start'
+    Bstart = 'select'
     PositionMenu = 1
     temp=""
     PM=1
@@ -76,21 +78,23 @@ class Playmoves:
     # presse and release a button button -> button to be pressed, wtp->time to w8 to press,wtr -> time w8 to release button
     def prelease(self, button, wtr=0.1, wtp=0.1):
         time.sleep(wtp)
-        self.keyboard.press(button)
         time.sleep(wtr)
-        self.keyboard.release(button)
+        global file
+        with open(file, 'w') as f:
+            f.write(button)
 
     def walk(self, side, times=1, boots=True):
         print(times)
         times = times+1
-        if (boots == True):
-            self.keyboard.press(self.Bb)
-            self.keyboard.press(side)
+        # if (boots == True):
+        #     self.keyboard.press(self.Bb)
+        #     self.keyboard.press(side)
         for x in range(times):
-            time.sleep(0.2)
+            self.prelease(side)
+            time.sleep(0.05)
 
-        self.keyboard.release(side)
-        self.keyboard.release(self.Bb)
+        # self.keyboard.release(side)
+        # self.keyboard.release(self.Bb)
 
     def battle(self, atkAction,atkNum=0):
 
@@ -177,7 +181,8 @@ class Playmoves:
         self.prelease(self.Bb)
 
     def pressA(self):
-        self.prelease(self.Ba)
+       self.prelease((self.Ba))
+       # self.prelease(self.Ba)
 
     def pressB(self):
         self.prelease(self.Bb)
