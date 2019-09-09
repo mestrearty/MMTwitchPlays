@@ -1,28 +1,45 @@
 from bdb import Bdb
-from pynput.keyboard import Key, Controller
 import time
 
 global file
 file = 'button.txt'
 
 class Playmoves:
-    keyboard = Controller()
 
-    # controles
+    #Biblioteca de comandos
+    libup = ["up","cima","w"]
+    libdown = ["down", "baixo", "s"]
+    libleft = ["left", "esquerda", "a"]
+    libright = ["right", "direita", "d"]
+    liba = ["x", "ba", "action", "ação"]
+    libb = ["z", "bb", "back", "voltar"]
+    librt = ["rt", "righttrigger", "gatilhodireito", "gd"]
+    liblt = ["lt", "lefttrigger", "gatilhoesquerdo", "ge"]
+    libstart = ["start", "st"]
+    libselect = ["select", "slt"]
+    libsave = ["save", "salvar","sv"]
+    librecover = ["recover", "recuperar"]
+    libatk = ["atk", "ataque", "atacar","attack"]
+    libbattle = ["correr","run","pokemon", "pkm", "switch", "trocar","item", "bag", "mochila"]
+    libnotlearn = ["notl","naoaprender"]
+    #Declaração dos controles controles
     Bup = 'up'
     Bdown = 'down'
     Bleft = 'left'
     Bright = 'right'
     Ba = 'A'
     Bb = 'B'
-    Blt = 'a'
-    Brt = 's'
-    Bselect = 'start'
-    Bstart = 'select'
+    Blt = ''
+    Brt = ''
+    Bselect = 'select'
+    Bstart = 'start'
     PositionMenu = 1
     temp=""
-    PM=1
+    PM = 1
+
+    #seleção do comando de entrada
     def action(self, msg):
+        msg = msg.lower()
         print(msg)
         if msg in "=":
             msg=self.temp
@@ -30,78 +47,78 @@ class Playmoves:
             self.temp=msg
 
         try:
-            if msg in ("up", "cima", "w"):
+            if msg in self.libup:
                 self.pressUp()
-            elif msg in ("down", "baixo", "s"):
+            elif msg in self.libdown:
                 self.pressDown()
-            elif msg in ("left", "esquerda", "a"):
-                self.pressDown()
-            elif msg in ("right", "direita", "d"):
+            elif msg in self.libleft:
+                self.pressLeft()
+            elif msg in self.libright:
                 self.pressRight()
-            elif msg in ("x", "Ba", "action", "ação"):
+            elif msg in self.liba:
                 self.pressA()
-            elif msg in ("z", "Bb", "back", "voltar"):
+            elif msg in self.libb:
                 self.pressB()
-            elif msg in ("rt", "righttrigger", "gatilhodireito", "gd"):
+            elif msg in self.librt:
                 self.pressRT()
-            elif msg in ("lt", "lefttrigger", "gatilhoesquerdo", "ge"):
+            elif msg in self.liblt:
                 self.pressLT()
-            elif msg in ("start", "st"):
+            elif msg in self.libstart:
                 self.pressStart()
-            elif msg in ("select", "slt"):
+            elif msg in self.libselect:
                 self.pressSelect()
-            elif msg in ("save", "salvar"):
+            elif msg in self.libsave:
                 self.save()
-            elif msg in ("recover", "recuperar"):
+            elif msg in self.librecover:
                 self.recover()
-
+            elif msg in self.libnotlearn:
+                self.donotlearnatk()
             else:
                 if(msg.__contains__('-')):
                     msgMenu = msg.split("-", 1)[0]
                     msgNum = msg.split("-", 1)[1]
+                    print(msgMenu)
+                    print(msgNum)
                     if int(msgNum) >= 25:
                         msgNum = 25
-                    if msgMenu in ("atk", "ataque", "atacar","attack"):
+                    if msgMenu in self.libatk:
                         self.battle(msgMenu,msgNum)
-                    elif msgMenu in ("up", "cima", "w"):
+                    elif msgMenu in self.libup:
                         self.walk(self.Bup, int(msgNum))
-                    elif msgMenu in ("down", "baixo", "s"):
+                    elif msgMenu in self.libdown:
                         self.walk(self.Bdown, int(msgNum))
-                    elif msgMenu in ("left", "esquerda", "a"):
+                    elif msgMenu in self.libleft:
                         self.walk(self.Bleft, int(msgNum))
-                    elif msgMenu in ("right", "direita", "d"):
+                    elif msgMenu in self.libright:
                         self.walk(self.Bright, int(msgNum))
-                elif msg in ("correr","run","pokemon", "pkm", "switch", "trocar","item", "bag", "mochila"):
+                elif msg in self.libbattle:
                     self.battle(msg)
         except:
             print("Estive aqui com a msg: " + msg)
-    # presse and release a button button -> button to be pressed, wtp->time to w8 to press,wtr -> time w8 to release button
-    def prelease(self, button, wtr=0.1, wtp=0.1):
-        time.sleep(wtp)
-        time.sleep(wtr)
+
+    def console(self, msg):
         global file
         with open(file, 'w') as f:
-            f.write(button)
+            f.write(msg)
+
+    # presse and release a button button -> button to be pressed, wtp->time to w8 to press,wtr -> time w8 to release button
+    def prelease(self, button, wtp=0.1,wtr=0.1):
+        time.sleep(wtp)
+        self.console(button)
+        time.sleep(wtr)
 
     def walk(self, side, times=1, boots=True):
         print(times)
         times = times+1
-        # if (boots == True):
-        #     self.keyboard.press(self.Bb)
-        #     self.keyboard.press(side)
         for x in range(times):
-            self.prelease(side)
-            time.sleep(0.05)
-
-        # self.keyboard.release(side)
-        # self.keyboard.release(self.Bb)
+            self.prelease(side, 0.07)
 
     def battle(self, atkAction,atkNum=0):
 
         print(atkAction)
-        self.prelease(self.Bb, 0.1, 1)
+        self.prelease(self.Bb, 1, 0.1)
         self.prelease(self.Bb, 0.1, 0.1)
-        self.prelease(self.Bb, 0.1, 0.5)
+        self.prelease(self.Bb, 0.1, 0.1)
         if atkAction in ("atk", "attack", "ataque"):
             # seleciona opção de batalha
             self.prelease(self.Bup)
@@ -110,7 +127,7 @@ class Playmoves:
 
             # ataque 1
             if atkNum == "1":
-                self.prelease(self.Bup, 0.1)
+                self.prelease(self.Bup, 0, 0.1)
                 self.prelease(self.Bleft)
                 self.prelease(self.Ba)
 
@@ -137,7 +154,7 @@ class Playmoves:
             self.prelease(self.Bright)
             self.prelease(self.Bdown)
             self.prelease(self.Ba)
-            self.prelease(self.Ba,0.1,0.5)
+            self.prelease(self.Ba,0.5)
 
         elif atkAction in ("item", "bag", "mochila"):
             self.prelease(self.Bright)
@@ -151,38 +168,54 @@ class Playmoves:
 
     def save(self):
         self.prelease(self.Bstart)
-        while (self.PM != 4):
-            if (self.PM < 4):
+        while (self.PM != 6):
+            print(self.PM)
+            if (self.PM < 6):
+                time.sleep(0.5)
                 self.PM += 1
-                self.prelease(self.Bup)
-
+                self.prelease(self.Bdown)
             else:
                 self.PM -= 1
-                self.prelease(self.Bdown)
+                self.prelease(self.Bup)
+        time.sleep(1)
         self.prelease(self.Ba)
-        time.sleep(0.2)
+        time.sleep(5)
+        self.prelease(self.Ba)
+        time.sleep(5)
         self.prelease(self.Ba)
 
         self.prelease(self.Ba)
 
     def recover(self):
-        def pres(t1=0.1,t2=0.1):
-            self.keyboard.press(self.Bb)
-            self.prelease(self.Ba,t1,t2)
-        pres(1)
-        time.sleep(0.3)
-        pres(1)
-        pres(1)
-        pres(1)
-        time.sleep(5)
-        pres(0.5)
-        pres(0.5)
+        self.prelease(self.Ba)
+        time.sleep(4)
+        self.prelease(self.Ba)
+        time.sleep(4)
+        self.prelease(self.Ba)
+        time.sleep(4)
+        self.prelease(self.Ba)
+        time.sleep(12)
+        self.prelease(self.Ba)
+        time.sleep(7)
+        self.prelease(self.Ba)
 
+    def donotlearnatk(self):
+        time.sleep(1)
         self.prelease(self.Bb)
+        time.sleep(4)
+        self.prelease(self.Bb)
+        time.sleep(4)
+        self.prelease(self.Bb)
+        time.sleep(4)
+        self.prelease(self.Ba)
+        time.sleep(4)
+        self.prelease(self.Bb)
+        time.sleep(4)
+        self.prelease(self.Bb)
+        time.sleep(4)
 
     def pressA(self):
-       self.prelease((self.Ba))
-       # self.prelease(self.Ba)
+       self.prelease(self.Ba)
 
     def pressB(self):
         self.prelease(self.Bb)
@@ -210,3 +243,5 @@ class Playmoves:
 
     def pressRight(self):
         self.prelease(self.Bright)
+
+

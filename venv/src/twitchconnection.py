@@ -24,7 +24,7 @@ class TwichConnection:
 
         # obter dados do chat
         while True:
-           #    eduardo rocha soares self.sendMessage("recover")
+           #self.sendMessage("recover")
             try:
                 readbuffer = self.irc.recv(1024).decode()
             except:
@@ -38,7 +38,6 @@ class TwichConnection:
                     msgg = "PONG :tmi.twitch.tv".encode()
                     self.irc.send(msgg)
                     print("Mantendo conexção")
-                    continue
                 else:
                     user = self.getUser(line)
                     message = self.getMessage(line)
