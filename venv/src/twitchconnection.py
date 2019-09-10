@@ -35,10 +35,13 @@ class TwichConnection:
                 if line == "":
                     continue
                 elif ping.split(":")[1] in "tmi.twitch.tv": #verifica se a twitch quer fechar conexção PING :tmi.twitch.tv "PONG " in ping.split(":")[0] and
-                    msgg = "PONG :tmi.twitch.tv".encode()
-                    self.irc.send(msgg)
+                    msg = "PONG\r\n".encode()
+                    self.irc.send(msg)
                     print("Mantendo conexção")
                 else:
+                    file = open("Dados/chat_history.txt", 'a+')
+                    file.write(line + "\n")
+                    file.close()
                     user = self.getUser(line)
                     message = self.getMessage(line)
                     print(user + " - " + message)
@@ -48,8 +51,9 @@ class TwichConnection:
                     elif (message.__contains__("nikolasrenanpedro")):
                         self.sendMessage(
                             "As maiores lendas que já passaram pelo if!! Nikolas o Sábio, Renan o esforçado, Pedro o... deixa pra la que deu preguiça")
-                    self.playmoves.action(message)
-
+                    msgAssistente = self.playmoves.action(message)
+                    if msgAssistente:
+                        self.sendMessage(msgAssistente)
     def joinchat(self):
         Loading = True
         while Loading:

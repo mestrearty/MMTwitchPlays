@@ -1,17 +1,18 @@
-from bdb import Bdb
+from assistente import Assistente
 import time
 
 global file
 file = 'button.txt'
 
 class Playmoves:
+    assistente = Assistente() #chamando assistente
 
     #Biblioteca de comandos
     libup = ["up","cima","w"]
     libdown = ["down", "baixo", "s"]
     libleft = ["left", "esquerda", "a"]
     libright = ["right", "direita", "d"]
-    liba = ["x", "ba", "action", "ação"]
+    liba = ["x", "ba", "action", "ação", "acao"]
     libb = ["z", "bb", "back", "voltar"]
     librt = ["rt", "righttrigger", "gatilhodireito", "gd"]
     liblt = ["lt", "lefttrigger", "gatilhoesquerdo", "ge"]
@@ -93,15 +94,22 @@ class Playmoves:
                         self.walk(self.Bright, int(msgNum))
                 elif msg in self.libbattle:
                     self.battle(msg)
+
+
+
         except:
             print("Estive aqui com a msg: " + msg)
-
+        # verifica se há alguma msg a enviar
+        msgAssistente = self.assistente.verificar()
+        if isinstance(msgAssistente, str):
+            return msgAssistente
     def console(self, msg):
         global file
-        with open(file, 'w') as f:
-            f.write(msg)
+        with open(file, 'a+') as f:
+            f.write(msg+"\n")
+            f.close()
 
-    # presse and release a button button -> button to be pressed, wtp->time to w8 to press,wtr -> time w8 to release button
+   # presse and release a button button -> button to be pressed, wtp->time to w8 to press,wtr -> time w8 to release button
     def prelease(self, button, wtp=0.1,wtr=0.1):
         time.sleep(wtp)
         self.console(button)
@@ -127,27 +135,27 @@ class Playmoves:
 
             # ataque 1
             if atkNum == "1":
-                self.prelease(self.Bup, 0, 0.1)
-                self.prelease(self.Bleft)
-                self.prelease(self.Ba)
+                self.prelease(self.Bup, 1)
+                self.prelease(self.Bleft, 0.5)
+                self.prelease(self.Ba,0.5)
 
             # ataque 2
             elif atkNum == "2":
-                self.prelease(self.Bup)
-                self.prelease(self.Bright)
-                self.prelease(self.Ba)
+                self.prelease(self.Bup, 1)
+                self.prelease(self.Bright, 0.5)
+                self.prelease(self.Ba, 0.5)
 
             # ataque 3
             elif atkNum == "3":
-                self.prelease(self.Bdown)
-                self.prelease(self.Bleft)
-                self.prelease(self.Ba)
+                self.prelease(self.Bdown, 1)
+                self.prelease(self.Bleft, 0.5)
+                self.prelease(self.Ba, 0.5)
 
             # ataque 4
             elif atkNum == "4":
-                self.prelease(self.Bdown)
-                self.prelease(self.Bright)
-                self.prelease(self.Ba)
+                self.prelease(self.Bdown, 1)
+                self.prelease(self.Bright), 0.5
+                self.prelease(self.Ba, 0.5)
 
 
         elif atkAction in ("run", "fugir"):
@@ -169,7 +177,6 @@ class Playmoves:
     def save(self):
         self.prelease(self.Bstart)
         while (self.PM != 6):
-            print(self.PM)
             if (self.PM < 6):
                 time.sleep(0.5)
                 self.PM += 1
@@ -185,6 +192,7 @@ class Playmoves:
         self.prelease(self.Ba)
 
         self.prelease(self.Ba)
+        self.assistente.setTimeSave()
 
     def recover(self):
         self.prelease(self.Ba)
@@ -213,6 +221,7 @@ class Playmoves:
         time.sleep(4)
         self.prelease(self.Bb)
         time.sleep(4)
+
 
     def pressA(self):
        self.prelease(self.Ba)

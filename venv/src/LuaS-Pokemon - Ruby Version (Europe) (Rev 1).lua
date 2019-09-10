@@ -30,12 +30,12 @@ function press_button(button)
    joypad.set(1, input_table)
 end
 
-prev_address=""
-prev_value=""
+--prev_address=""
+--prev_value=""
 
 while true do
 
-	address = read_file('address.txt')
+	--[[address = read_file('address.txt')
 	value = read_file('value.txt')
 	if address ~= prev_address and value ~= prev_value then
 		hex_address = tonumber(address,16)
@@ -46,13 +46,13 @@ while true do
 		end
 	end
 	prev_address = address
-	prev_value = value
+	prev_value = value]]
 
 	if file_exists('button.txt') then
 		button = read_file('button.txt')
 		os.remove('button.txt')
 		emu.message('Pressionando: ' .. button)
-		for i=0, 24 do
+		for i=0, 10 do
 			press_button(button)
 
 			emu.frameadvance()

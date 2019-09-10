@@ -1,0 +1,396 @@
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :salvando
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :historico
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left-10
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left-5
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-4
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-3
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-10
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-0
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-3
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-3
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-4
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-5
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :right
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :right
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left-10
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :c
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :save
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :down
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :teste
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :teste
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :teste
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :teste
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d-3
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:marceloztti22!marceloztti22@marceloztti22.tmi.twitch.tv PRIVMSG #artficer :vtnc
+:marceloztti22!marceloztti22@marceloztti22.tmi.twitch.tv PRIVMSG #artficer :cara ta com 30 ano na cara jogando essa merda de joguim
+:marceloztti22!marceloztti22@marceloztti22.tmi.twitch.tv PRIVMSG #artficer :live travando mais q tudo nessa linda internet do Tocantins
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :pedro seu safado
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :eu desbloqueei meu 3ds <3
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :é
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :seu safado
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :olá pessoas lindas do meu s2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :tá só áudio aqui mano auahshsu
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :lef-10
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :oxi
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :Calma kkk
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :so audio aqui tb
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :Bora jogar 3ds sahusa
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :vou resetar a live, calma
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :to pelo wifi, foda
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :F
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :Pronto gente kkk
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ve se foi pf
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :up
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :lef
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :left
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :som morreu
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :imagem morreu
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :morremos todos PepeHands
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :right
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :morreu?
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :sim
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :oh noes
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :acho que ta dando tudo errado quando n era pra dar
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :calma
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :kkk
+:marceloztti22!marceloztti22@marceloztti22.tmi.twitch.tv PRIVMSG #artficer :nao tem nenhum pepe de emoji na twitch q merda
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :pera
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :anda de novo
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :acho que era o meu navegador
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :@Iviexd anda vc zé kkk, digita right-10 por exemplo
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :right-4
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :foi?
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :nao
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :mas nao sei se e delay
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :aqui pra mim deu
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :entao
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :To achando que ta com problema na transmissão minha
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :eu atualizei e foi
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :calma
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :fazer umas gambiarra
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :up-1
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :down-2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :right-5
+:marcelo5676!marcelo5676@marcelo5676.tmi.twitch.tv PRIVMSG #artficer :teste
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :gente o A é x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :e B é z
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pra atacar vcs podem usar atk-n
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :onde n é o número do atk
+:marcelo5676!marcelo5676@marcelo5676.tmi.twitch.tv PRIVMSG #artficer :tela ta preta aqui pedrão
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :@Marcelo5676 atualiza
+:marcelo5676!marcelo5676@marcelo5676.tmi.twitch.tv PRIVMSG #artficer :foi
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :x-4
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :pedro, suponhamos que eu metesse um down-999999, o bot bugaria?
+:marcelo5676!marcelo5676@marcelo5676.tmi.twitch.tv PRIVMSG #artficer :pq sou mod
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :não
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pq em outra stream fizeram isso
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ai eu limitei
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pra 25 passos no máximo
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :ah minino danado
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :@Marcelo5676 acho que uma vez vc pediu kkk
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :@Iviexd tratei até python injection kkk
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :tentaram dar shutdown
+:marcelo5676!marcelo5676@marcelo5676.tmi.twitch.tv PRIVMSG #artficer :me tira disso mt responsabilidade
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :palmito
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :eu lembro q no primeiro tpp que teve
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :nego ficou dando start 99
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :USHSHDHEU
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :e o bot ficou 1 dia inteiro dando start
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :x-3
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :fi
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :só x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ou só z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :OPORA
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :x
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :kkkk mas eu tratei esse lance ai pra n dar esses bo @Iviexd
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :right-5
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :left-2
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :up-1
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :down-2
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :vou dormir pq se eu ficar aqui eu to fodido amanha
+:iviexd!iviexd@iviexd.tmi.twitch.tv PRIVMSG #artficer :bjo boa noitche
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :nn
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :fica ai
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :testa pra mim pf
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :preciso entregar amanhã o trab
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :kkk
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :up
+:roverhstr!roverhstr@roverhstr.tmi.twitch.tv PRIVMSG #artficer :left-3
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :left-5
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :up
+:roverhstr!roverhstr@roverhstr.tmi.twitch.tv PRIVMSG #artficer :right-10
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :right-25
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :A: x B: z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:roverhstr!roverhstr@roverhstr.tmi.twitch.tv PRIVMSG #artficer :a
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pra atacar digita atk-n, onde n é o número do atk
+:roverhstr!roverhstr@roverhstr.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :a
+:roverhstr!roverhstr@roverhstr.tmi.twitch.tv PRIVMSG #artficer :x
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :x
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :palmito
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :@luck588 a é usado pra movimentar, aqui tu digita ou bA ou x pra usar a, e Bb e z como B
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :right-25
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :Left -5
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :palmito
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :a
+:batatapardor!batatapardor@batatapardor.tmi.twitch.tv PRIVMSG #artficer :w
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :a
+:batatapardor!batatapardor@batatapardor.tmi.twitch.tv PRIVMSG #artficer :koe
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-4
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :atk-4
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :alt f4
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :pkm
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :x
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :pkm 5
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pode usar sem a - a movimentação ok?
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :tipo d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :w
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :etc
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :atk 4
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-n
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :a
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :x
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :left
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :down
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :z
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :atk-2
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :lef
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :down
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :a
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :right
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :pra dar run, pode digitar run
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :run
+:luck588!luck588@luck588.tmi.twitch.tv PRIVMSG #artficer :w
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :mas acho que ta enfrentando treinador
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :Tendi
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :fight
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :atk 1
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :fefe
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :tu tem que por -
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :Uai
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :sacou?
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :Foi sem o -
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :atk-1
+:ch_jnts!ch_jnts@ch_jnts.tmi.twitch.tv PRIVMSG #artficer :atk-4
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :atk-4
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :a
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :O botão normal é o que?
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :A ou X?
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :A: Ba ou x, B Bb ou z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :Nao pode ficar apertando X varias vezes
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :down
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :right-20
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :run
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :down
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :right
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :liba = ["x", "ba", "action", "ação", "acao"]
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :libb = ["z", "bb", "back", "voltar"]
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :run
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :right-20
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :right-5
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :start
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :Pokenav
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :up-4
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :q
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :z
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :up
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :down
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :q
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :x
+:anjogx!anjogx@anjogx.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :Vlw gente
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :s2
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:lumussser!lumussser@lumussser.tmi.twitch.tv PRIVMSG #artficer :palmito
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :c
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :z
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :s
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :c
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :v
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :q
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :w
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :e
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :s
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :x
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :b
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :b
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :n
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :m
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :k
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :i
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :o
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :p
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :as
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :s
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :d
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :~~
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ç
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ç
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :k
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :p
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :k
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :k
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :k
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :l
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :ç
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :p
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :f
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :a
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :j
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :j
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :m
+:tmi.twitch.tv 421 artficer PARA :Unknown command
+:tmi.twitch.tv 421 artficer EX: :Unknown command
+:tmi.twitch.tv 421 artficer BOTÕES: :Unknown command
+:tmi.twitch.tv 421 artficer A :Unknown command
+:tmi.twitch.tv 421 artficer B :Unknown command
+:tmi.twitch.tv 421 artficer FUGIR: :Unknown command
+:tmi.twitch.tv 421 artficer ATACAR: :Unknown command
+:tmi.twitch.tv 421 artficer ATK-2 :Unknown command
+:tmi.twitch.tv 421 artficer MOCHILA :Unknown command
+:tmi.twitch.tv 421 artficer POKEMON :Unknown command
+:artficer!artficer@artficer.tmi.twitch.tv PRIVMSG #artficer :o
